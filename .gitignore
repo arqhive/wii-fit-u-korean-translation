@@ -1,0 +1,19 @@
+# 게임 원본 (저작물 — 저장소에 넣지 않음)
+Wii Fit U*/
+*.app
+*.h3
+title.tik
+title.tmd
+title.cert
+
+# 빌드 산출물
+build/
+work/
+
+# 게임에서 뽑은 이미지 / 한글 렌더 결과
+translation/images/
+translation/images_ko/
+
+# 파이썬
+__pycache__/
+*.pyc
